@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mark-php/mark": "^2.0",
+        "monolog/monolog": "^2.3"
+    }
+}
